@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "salon-1",
+    "name": "Glamour Studio Hair",
+    "category": "Hair Salon",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 63,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "1.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at Glamour Studio Hair. We specialize in facial and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-2",
+    "name": "The Royal Touch Makeup",
+    "category": "Makeup Artist",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 76,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at The Royal Touch Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-3",
+    "name": "Elegance Spa Bridal",
+    "category": "Bridal Specialist",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 89,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon5.jpg",
+    "distance": "3.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Elegance Spa Bridal. We specialize in facial and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-4",
+    "name": "Radiance Beauty Nail",
+    "category": "Nail Studio",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 102,
+    "priceRange": "₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "4.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at Radiance Beauty Nail. We specialize in manicure and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-5",
+    "name": "Glow & Go Spa",
+    "category": "Spa Center",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 115,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon3.jpg",
+    "distance": "6.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at Glow & Go Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-6",
+    "name": "Velvet Salon Grooming",
+    "category": "Grooming Expert",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 128,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon6.jpg",
+    "distance": "7.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Velvet Salon Grooming. We specialize in beard trim and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-7",
+    "name": "Divine Makeovers Beauty",
+    "category": "Beauty Salon",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 141,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "8.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at Divine Makeovers Beauty. We specialize in facial and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-8",
+    "name": "Chic Styling Hair",
+    "category": "Hair Salon",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 154,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "1.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at Chic Styling Hair. We specialize in facial and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-9",
+    "name": "Elite Grooming Makeup",
+    "category": "Makeup Artist",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 167,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Elite Grooming Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-10",
+    "name": "Serenity Spa Bridal",
+    "category": "Bridal Specialist",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 180,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon5.jpg",
+    "distance": "3.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at Serenity Spa Bridal. We specialize in facial and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  },
+  {
+    "id": "salon-11",
+    "name": "Flawless Bridal Nail",
+    "category": "Nail Studio",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 193,
+    "priceRange": "₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "4.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at Flawless Bridal Nail. We specialize in manicure and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-12",
+    "name": "Urban Beauty Spa",
+    "category": "Spa Center",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 206,
+    "priceRange": "₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon3.jpg",
+    "distance": "5.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at Urban Beauty Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-13",
+    "name": "Lush Hair Studio Grooming",
+    "category": "Grooming Expert",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 219,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon6.jpg",
+    "distance": "6.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Lush Hair Studio Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-14",
+    "name": "Opulence Salon Beauty",
+    "category": "Beauty Salon",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 232,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "7.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at Opulence Salon Beauty. We specialize in facial and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-15",
+    "name": "The Makeup Room Hair",
+    "category": "Hair Salon",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 245,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "1.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at The Makeup Room Hair. We specialize in facial and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-16",
+    "name": "Aura Luxe Makeup",
+    "category": "Makeup Artist",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 258,
+    "priceRange": "₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Aura Luxe Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-17",
+    "name": "Glamour Studio Bridal",
+    "category": "Bridal Specialist",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 271,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "3.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at Glamour Studio Bridal. We specialize in facial and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-18",
+    "name": "The Royal Touch Nail",
+    "category": "Nail Studio",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 284,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "4.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at The Royal Touch Nail. We specialize in manicure and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-19",
+    "name": "Elegance Spa Spa",
+    "category": "Spa Center",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 297,
+    "priceRange": "₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon3.jpg",
+    "distance": "5.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Elegance Spa Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-20",
+    "name": "Radiance Beauty Grooming",
+    "category": "Grooming Expert",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 310,
+    "priceRange": "₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon6.jpg",
+    "distance": "6.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at Radiance Beauty Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  },
+  {
+    "id": "salon-21",
+    "name": "Glow & Go Beauty",
+    "category": "Beauty Salon",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 323,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "7.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at Glow & Go Beauty. We specialize in facial and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-22",
+    "name": "Velvet Salon Hair",
+    "category": "Hair Salon",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 336,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "0.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at Velvet Salon Hair. We specialize in facial and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-23",
+    "name": "Divine Makeovers Makeup",
+    "category": "Makeup Artist",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 349,
+    "priceRange": "₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon5.jpg",
+    "distance": "1.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Divine Makeovers Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-24",
+    "name": "Chic Styling Bridal",
+    "category": "Bridal Specialist",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 362,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at Chic Styling Bridal. We specialize in facial and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-25",
+    "name": "Elite Grooming Nail",
+    "category": "Nail Studio",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 375,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "4.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at Elite Grooming Nail. We specialize in manicure and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-26",
+    "name": "Serenity Spa Spa",
+    "category": "Spa Center",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 388,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon3.jpg",
+    "distance": "5.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Serenity Spa Spa. We specialize in swedish massage and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-27",
+    "name": "Flawless Bridal Grooming",
+    "category": "Grooming Expert",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 401,
+    "priceRange": "₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon6.jpg",
+    "distance": "6.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at Flawless Bridal Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-28",
+    "name": "Urban Beauty Beauty",
+    "category": "Beauty Salon",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 414,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "7.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at Urban Beauty Beauty. We specialize in facial and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-29",
+    "name": "Lush Hair Studio Hair",
+    "category": "Hair Salon",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 427,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "8.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Lush Hair Studio Hair. We specialize in facial and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-30",
+    "name": "Opulence Salon Makeup",
+    "category": "Makeup Artist",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 440,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon5.jpg",
+    "distance": "1.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at Opulence Salon Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  },
+  {
+    "id": "salon-31",
+    "name": "The Makeup Room Bridal",
+    "category": "Bridal Specialist",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 453,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at The Makeup Room Bridal. We specialize in facial and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-32",
+    "name": "Aura Luxe Nail",
+    "category": "Nail Studio",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 466,
+    "priceRange": "₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "3.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at Aura Luxe Nail. We specialize in manicure and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-33",
+    "name": "Glamour Studio Spa",
+    "category": "Spa Center",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 479,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon3.jpg",
+    "distance": "4.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Glamour Studio Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-34",
+    "name": "The Royal Touch Grooming",
+    "category": "Grooming Expert",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 492,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon6.jpg",
+    "distance": "5.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at The Royal Touch Grooming. We specialize in beard trim and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-35",
+    "name": "Elegance Spa Beauty",
+    "category": "Beauty Salon",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 505,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "7.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at Elegance Spa Beauty. We specialize in facial and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-36",
+    "name": "Radiance Beauty Hair",
+    "category": "Hair Salon",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 518,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon4.jpg",
+    "distance": "8.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Radiance Beauty Hair. We specialize in facial and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-37",
+    "name": "Glow & Go Makeup",
+    "category": "Makeup Artist",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 531,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "1.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at Glow & Go Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-38",
+    "name": "Velvet Salon Bridal",
+    "category": "Bridal Specialist",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 544,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at Velvet Salon Bridal. We specialize in facial and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-39",
+    "name": "Divine Makeovers Nail",
+    "category": "Nail Studio",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 57,
+    "priceRange": "₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "3.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Divine Makeovers Nail. We specialize in manicure and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-40",
+    "name": "Chic Styling Spa",
+    "category": "Spa Center",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 70,
+    "priceRange": "₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon3.jpg",
+    "distance": "4.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at Chic Styling Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  },
+  {
+    "id": "salon-41",
+    "name": "Elite Grooming Grooming",
+    "category": "Grooming Expert",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 83,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon6.jpg",
+    "distance": "5.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at Elite Grooming Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-42",
+    "name": "Serenity Spa Beauty",
+    "category": "Beauty Salon",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 96,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon2.jpg",
+    "distance": "6.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at Serenity Spa Beauty. We specialize in facial and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-43",
+    "name": "Flawless Bridal Hair",
+    "category": "Hair Salon",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 109,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon4.jpg",
+    "distance": "7.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Flawless Bridal Hair. We specialize in facial and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-44",
+    "name": "Urban Beauty Makeup",
+    "category": "Makeup Artist",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 122,
+    "priceRange": "₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "0.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at Urban Beauty Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-45",
+    "name": "Lush Hair Studio Bridal",
+    "category": "Bridal Specialist",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 135,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "2.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at Lush Hair Studio Bridal. We specialize in facial and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-46",
+    "name": "Opulence Salon Nail",
+    "category": "Nail Studio",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 148,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon2.jpg",
+    "distance": "3.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Opulence Salon Nail. We specialize in manicure and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-47",
+    "name": "The Makeup Room Spa",
+    "category": "Spa Center",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 161,
+    "priceRange": "₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon3.jpg",
+    "distance": "4.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at The Makeup Room Spa. We specialize in swedish massage and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-48",
+    "name": "Aura Luxe Grooming",
+    "category": "Grooming Expert",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 174,
+    "priceRange": "₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon6.jpg",
+    "distance": "5.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at Aura Luxe Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-49",
+    "name": "Glamour Studio Beauty",
+    "category": "Beauty Salon",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 187,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon1.jpg",
+    "distance": "6.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Glamour Studio Beauty. We specialize in facial and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-50",
+    "name": "The Royal Touch Hair",
+    "category": "Hair Salon",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 200,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon4.jpg",
+    "distance": "7.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at The Royal Touch Hair. We specialize in facial and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  },
+  {
+    "id": "salon-51",
+    "name": "Elegance Spa Makeup",
+    "category": "Makeup Artist",
+    "area": "Prahlad Nagar",
+    "rating": 4.7,
+    "reviews": 213,
+    "priceRange": "₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "0.6 km",
+    "auraScore": 94,
+    "description": "Experience luxury and professional care at Elegance Spa Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Prahlad Nagar, Ahmedabad."
+  },
+  {
+    "id": "salon-52",
+    "name": "Radiance Beauty Bridal",
+    "category": "Bridal Specialist",
+    "area": "Bodakdev",
+    "rating": 4.4,
+    "reviews": 226,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "1.7 km",
+    "auraScore": 88,
+    "description": "Experience luxury and professional care at Radiance Beauty Bridal. We specialize in facial and personalized beauty treatments in the heart of Bodakdev, Ahmedabad."
+  },
+  {
+    "id": "salon-53",
+    "name": "Glow & Go Nail",
+    "category": "Nail Studio",
+    "area": "Vastrapur",
+    "rating": 4.1,
+    "reviews": 239,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon1.jpg",
+    "distance": "2.8 km",
+    "auraScore": 82,
+    "description": "Experience luxury and professional care at Glow & Go Nail. We specialize in manicure and personalized beauty treatments in the heart of Vastrapur, Ahmedabad."
+  },
+  {
+    "id": "salon-54",
+    "name": "Velvet Salon Spa",
+    "category": "Spa Center",
+    "area": "SG Highway",
+    "rating": 4.8,
+    "reviews": 252,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Swedish Massage",
+      "Aromatherapy",
+      "Deep Tissue"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon3.jpg",
+    "distance": "3.9 km",
+    "auraScore": 96,
+    "description": "Experience luxury and professional care at Velvet Salon Spa. We specialize in swedish massage and personalized beauty treatments in the heart of SG Highway, Ahmedabad."
+  },
+  {
+    "id": "salon-55",
+    "name": "Divine Makeovers Grooming",
+    "category": "Grooming Expert",
+    "area": "Bopal",
+    "rating": 4.5,
+    "reviews": 265,
+    "priceRange": "₹₹",
+    "services": [
+      "Beard Trim",
+      "Haircut",
+      "Detan",
+      "Head Massage"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon6.jpg",
+    "distance": "5.0 km",
+    "auraScore": 90,
+    "description": "Experience luxury and professional care at Divine Makeovers Grooming. We specialize in beard trim and personalized beauty treatments in the heart of Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-56",
+    "name": "Chic Styling Beauty",
+    "category": "Beauty Salon",
+    "area": "South Bopal",
+    "rating": 4.2,
+    "reviews": 278,
+    "priceRange": "₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon2.jpg",
+    "distance": "6.1 km",
+    "auraScore": 84,
+    "description": "Experience luxury and professional care at Chic Styling Beauty. We specialize in facial and personalized beauty treatments in the heart of South Bopal, Ahmedabad."
+  },
+  {
+    "id": "salon-57",
+    "name": "Elite Grooming Hair",
+    "category": "Hair Salon",
+    "area": "Chandkheda",
+    "rating": 4.9,
+    "reviews": 291,
+    "priceRange": "₹₹₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon4.jpg",
+    "distance": "7.2 km",
+    "auraScore": 98,
+    "description": "Experience luxury and professional care at Elite Grooming Hair. We specialize in facial and personalized beauty treatments in the heart of Chandkheda, Ahmedabad."
+  },
+  {
+    "id": "salon-58",
+    "name": "Serenity Spa Makeup",
+    "category": "Makeup Artist",
+    "area": "Maninagar",
+    "rating": 4.6,
+    "reviews": 304,
+    "priceRange": "₹₹₹",
+    "services": [
+      "Bridal Makeup",
+      "Party Makeup",
+      "Airbrush Makeup"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "8.3 km",
+    "auraScore": 92,
+    "description": "Experience luxury and professional care at Serenity Spa Makeup. We specialize in bridal makeup and personalized beauty treatments in the heart of Maninagar, Ahmedabad."
+  },
+  {
+    "id": "salon-59",
+    "name": "Flawless Bridal Bridal",
+    "category": "Bridal Specialist",
+    "area": "Navrangpura",
+    "rating": 4.3,
+    "reviews": 317,
+    "priceRange": "₹₹",
+    "services": [
+      "Facial",
+      "Cleanup",
+      "Threading",
+      "Waxing"
+    ],
+    "isOpen": true,
+    "coverImage": "/salon5.jpg",
+    "distance": "1.4 km",
+    "auraScore": 86,
+    "description": "Experience luxury and professional care at Flawless Bridal Bridal. We specialize in facial and personalized beauty treatments in the heart of Navrangpura, Ahmedabad."
+  },
+  {
+    "id": "salon-60",
+    "name": "Urban Beauty Nail",
+    "category": "Nail Studio",
+    "area": "Satellite",
+    "rating": 4,
+    "reviews": 330,
+    "priceRange": "₹",
+    "services": [
+      "Manicure",
+      "Pedicure",
+      "Nail Art",
+      "Acrylic Extensions"
+    ],
+    "isOpen": false,
+    "coverImage": "/salon2.jpg",
+    "distance": "2.5 km",
+    "auraScore": 80,
+    "description": "Experience luxury and professional care at Urban Beauty Nail. We specialize in manicure and personalized beauty treatments in the heart of Satellite, Ahmedabad."
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "weekly": [
+    { "day": "Mon", "bookings": 18 },
+    { "day": "Tue", "bookings": 22 },
+    { "day": "Wed", "bookings": 25 },
+    { "day": "Thu", "bookings": 20 },
+    { "day": "Fri", "bookings": 30 },
+    { "day": "Sat", "bookings": 35 },
+    { "day": "Sun", "bookings": 15 }
+  ],
+  "upcoming": [
+    {
+      "id": 1,
+      "client": "Priya Sharma",
+      "package": "Bridal Makeup Package",
+      "date": "Dec 25, 2026",
+      "time": "10:00 AM",
+      "price": "₹15,000",
+      "status": "Confirmed"
+    },
+    {
+      "id": 2,
+      "client": "Anjali Mehta",
+      "package": "Hair Spa + Styling",
+      "date": "Dec 26, 2026",
+      "time": "2:00 PM",
+      "price": "₹3,500",
+      "status": "Confirmed"
+    },
+    {
+      "id": 3,
+      "client": "Rahul Patel",
+      "package": "Premium Grooming",
+      "date": "Dec 27, 2026",
+      "time": "11:30 AM",
+      "price": "₹2,000",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "client": "Kavya Singh",
+      "package": "Facial + Cleanup",
+      "date": "Dec 28, 2026",
+      "time": "4:00 PM",
+      "price": "₹2,500",
+      "status": "Confirmed"
+    }
+  ]
+}

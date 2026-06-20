@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "quote": "The AI Bridal Planner helped me organize my entire wedding beauty timeline. Found the perfect salon with an amazing Aura Score!",
+    "name": "Priya Sharma",
+    "role": "Bride",
+    "avatar": "P",
+    "color": "#D4AF37",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "quote": "As a working professional, I appreciate the convenience and quality. The recommendations are spot-on for my needs.",
+    "name": "Rahul Patel",
+    "role": "Professional",
+    "avatar": "R",
+    "color": "#D4AF37",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "quote": "The AI Beauty Advisor understood exactly what I needed. Best salon discovery platform in Ahmedabad!",
+    "name": "Anjali Mehta",
+    "role": "Beauty Enthusiast",
+    "avatar": "A",
+    "color": "#D4AF37",
+    "rating": 5
+  }
+]

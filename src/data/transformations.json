@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Bridal Glow",
+    "description": "Complete bridal transformation including HD makeup and hair styling.",
+    "beforeImage": "/Before.jpg",
+    "afterImage": "/After.jpg",
+    "salonId": "salon-1"
+  }
+]
