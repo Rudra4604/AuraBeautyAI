@@ -10,7 +10,7 @@ export default function HomePage() {
     <>
       <ScrollReveal><HeroSection /></ScrollReveal>
       <ScrollReveal delay={0.2}><FeaturedSalons /></ScrollReveal>
-      <ScrollReveal delay={0.2}><BeforeAfterSlider /></ScrollReveal>
+      <BeforeAfterSlider />
       <ScrollReveal delay={0.2}><AIFeatures /></ScrollReveal>
       <ScrollReveal delay={0.2}><Testimonials /></ScrollReveal>
     </>
